@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author hss
+ * @author Test
  *
  */
 @Entity
